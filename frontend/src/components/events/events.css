@@ -1,0 +1,11 @@
+.App {
+	text-align: center;
+}
+.rbc-calendar {
+    color: black;
+    box-sizing: border-box;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}

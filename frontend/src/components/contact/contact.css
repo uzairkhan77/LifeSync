@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    /* font-weight: bold; */
+    font-size: 40px;
+    color: #000000;
+    margin: 0;
+    margin-bottom: 18px;
+  }
+  
+  
+  hr {
+    border: none;
+    border-top: 1px solid #979797;
+    margin: 20px 0;
+  }
+  
+  input[type="submit"] {
+    background-color:  #8758ff;
+    border-radius: 4px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+    border: none;
+    outline: none;
+    padding: 10px 0;
+    width: 100%;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background: rgb(111, 66, 193);
+  }
+  
+  input,
+  select {
+    font-family: "Open Sans", sans-serif;
+    background: #ffffff;
+    border: 1px solid #979797;
+    border-radius: 4px;
+    padding: 7px 9.5px 9px 9.5px;
+    outline: none;
+    width: 100%;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .card-custom {
+    height: 510px; /* You can adjust the height to your desired value */
+  }
